@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Sphere",
+  "description": "A highly interactive 3D visualization featuring a flowing, particle-based sphere that reacts to cursor proximity with dynamic gradients and fluid motion.",
+  "requestFramePermissions": []
+}
